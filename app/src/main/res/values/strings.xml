@@ -1,4 +1,7 @@
 <resources>
   <string name="app_name">Random Quotes</string>
   <string name="base_url">http://10.0.2.2:8080/rest/qod/</string>
+  <string name="client_id">639706352349-7a6kanebpqaogh029pcgliujjpvfm1hv.apps.googleusercontent.com</string>
+  <string name="sign_in_error">Unable to log in with the provided credentials</string> <!-- TODO Get from Google Clooud Console -->
+  <string name="authorization_value_format">Bearer %s</string>
 </resources>
